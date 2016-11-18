@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'crom'; /*a name to be used later*/
+    src: url('../fonts/Crom_v1.ttf'); /*URL to font*/
+}
+
+@font-face {
+    font-family: 'actionis'; /*a name to be used later*/
+    src: url('../fonts/actionis.ttf'); /*URL to font*/
+}
+
+.crom-font {
+	font-family: crom;
+}
+
+.actionis-font {
+	font-family: actionis;
+}
