@@ -1,0 +1,22 @@
+{
+    "name": "demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "hardy": "0.0.10"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/little-white/custom-font.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/little-white/custom-font/issues"
+    },
+    "homepage": "https://github.com/little-white/custom-font#readme"
+}
