@@ -6,9 +6,6 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "devDependencies": {
-        "hardy": "0.0.10"
-    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/little-white/custom-font.git"
